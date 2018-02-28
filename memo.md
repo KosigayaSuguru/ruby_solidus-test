@@ -30,3 +30,7 @@ Password [test123]:
 
 管理用：http://localhost:3000/admin  
 一覧：http://localhost:3000/rails/info/routes  
+
+### ◆ 日本語訳
+
+[[日本語訳] PREFERENCES - DEVELOPER GUIDE | SPREE COMMERCE](https://qiita.com/yuskamiya/items/2c8e00ff384e89a86254)
